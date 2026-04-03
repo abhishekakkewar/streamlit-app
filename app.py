@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="My First App")
 
 st.title("🚀 My Streamlit App")
-st.write("This is my first deployed app!")
+st.write("Hello!")
 
 name = st.text_input("Enter your name")
 
